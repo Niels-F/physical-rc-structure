@@ -1,0 +1,4 @@
+numpy>=1.24
+matplotlib>=3.7
+# optional, for the live display of live_time.py inside VS Code / Jupyter:
+# ipympl

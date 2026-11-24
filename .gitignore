@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# figures and data files written when the experiments are re-run from the repo root
+/*.png
+/*.jsonl
+# LaTeX build files
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
